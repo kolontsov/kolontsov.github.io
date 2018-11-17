@@ -1,0 +1,3 @@
+[submodule "stellar-trezor-inflation"]
+	path = stellar-trezor-inflation
+	url = https://github.com/kolontsov/stellar-trezor-inflation
